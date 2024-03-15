@@ -155,7 +155,23 @@ Also, a recent paper has attempted to disentangle the epistemic vs. ontic contri
 
 ## Quantum Field Theory and QED
 
+# TODO: Done writing up to here
+
 * second quantization, fourier space, calculational tools etc.
+
+## Contextual vs "real" variables (beables)
+
+There is a critical distinction in QM between "conjugate" vs. ? variables, which is important for understanding different QM experiments and predictions from pilot-wave models.
+
+* Positions of particles are "real" variables that are updated under the influence of the wave function, and, importantly, there are no nonlocal puzzles associated with measuring positions.
+
+* Spin, on the other hand is a significantly more mysterious property that has a strong associated conservation law.  Furthermore, Spraken(?) showed that any model that has continuously-updated "real" values for the spin variables is incompatible with well-established empirical data. In the pilot-wave framework, spin is something that lives purely in the wave function, and is not driving a "real" property of the underlying discrete particles.  As such, Norsen showed that spin in the pilot-wave framework is consistent with this established empirical data.  In particular, he showed that the spin state of a given particle is not some kind of objective real state that a particle has, but rather is something that emerges out of the interaction between the measurement apparatus and the wave state of the particle.  In other words, it is a purely _contextual_ variable that takes on a more well-defined value through the interaction with the measurement device.  In this way, it is much more like a Copenhagen-like state, where it really doesn't exist as such until it is measured.  
+
+Importantly, because it is conserved, spin (and EM polarization) are variables that are most often measured in experiments probing for the nonlocality of entangled systems.  It remains possible that such variables are indeed much more susceptible to nonlocality effects than "real" variables such as a prticle's location.
+
+This is in contrast to the beliefs of many that spin poses a fundamental problem for such models.
+
+In our WELD model, the Dirac wave function incorporates spin, and shows how it couples with the EM waves.  But spin here is not some kind of static property -- it is constantly updating through the wave equation...
 
 ## Semiclassical Models
 

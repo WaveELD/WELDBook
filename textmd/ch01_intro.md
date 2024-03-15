@@ -139,6 +139,8 @@ If the quantum wave function is largely (or even partially) reflecting epistemic
 
 Furthermore, there is very good evidence from within the pilot-wave approach itself that a significant portion of the pilot wave actually does represent epistemic uncertainty, precisely because many different possible initial starting states must be modeled to capture our very real uncertainty about the precise starting state of any actual experimental configuration.  The Heisenberg uncertainty principle dictates that there is a fundamental limit to which we can simultaneously determine all of the relevant degrees of freedom about a physical system, and in practice we almost certainly have well less than this lower limit, because it is very difficult to make any kind of precise measurement of microscopic quantum-scale systems.
 
+The incorrect incorporation of epistemic uncertainty in the standard Schrödinger pilot-wave framework is also evident in the inevitable spreading out of the wave function over time.  In the epistemic case, this spread represents a very sensible increase in uncertainty about where something might be located, given more time since the last time its position was known.  But given that the pilot-wave model maintains exact locations of each particle over time, it really doesn't seem to make sense for the wave function to spread out in this manner, at least for variables associated with particle positions.
+
 This quote from E. T. Jaynes is particularly apropos here:
   
 > "But our present QM formalism is not purely epistemological; it is a peculiar mixture describing in part realities of Nature, in part incomplete human information about Nature -- all scrambled up by Heisenberg and Bohr into an omelette that nobody has seen how to unscramble. Yet we think that the unscrambling is a prerequisite for any further advance in basic physical theory. For, if we cannot separate the subjective and objective aspects of the formalism, we cannot know what we are talking about; it is just that simple." (Jaynes, 1990).
@@ -149,7 +151,7 @@ Fortunately, important progress along this latter line has been undertaken by No
 
 As for the use of more physically realistic wave functions, some work has been done deriving pilot-wave models for the relativistic Dirac equation (Durr et al, 2014), but I am not aware of a more directed approach at factoring out the epistemic contributions.
 
-In this context, the precise motivation for the current WELD approach is to develop a fully physically-realistic pilot-wave model using the coupled Dirac / Maxwell equations to mediate all inter-particle interactions, and compare this with real experimental data and the predictions of existing more standard pilot-wave models.
+In this context, the motivation for the current WELD approach is precisely to develop a fully physically-realistic pilot-wave model using the coupled Dirac / Maxwell equations to mediate all inter-particle interactions, and compare this with real experimental data and the predictions of existing more standard pilot-wave models.
 
 Also, a recent paper has attempted to disentangle the epistemic vs. ontic contributions to the wave function using a novel analytical technique, and concluded that different quantum behavior can be associated with each of these contributions (Budiyono & Rohrlich, 2017).  Predictably, they reject the pilot-wave approach because of its incorrect use of an epistemic uncertainty wave to guide real particle trajectories.
 
@@ -161,7 +163,7 @@ Also, a recent paper has attempted to disentangle the epistemic vs. ontic contri
 
 ## Contextual vs "real" variables (beables)
 
-There is a critical distinction in QM between "conjugate" vs. ? variables, which is important for understanding different QM experiments and predictions from pilot-wave models.
+There is a critical distinction in QM between "canonically conjugate" vs. ? variables, which is important for understanding different QM experiments and predictions from pilot-wave models.
 
 * Positions of particles are "real" variables that are updated under the influence of the wave function, and, importantly, there are no nonlocal puzzles associated with measuring positions.
 

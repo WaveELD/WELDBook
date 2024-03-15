@@ -1,2 +1,4 @@
 # WELDBook
-Online, in-progress book on Wave Electrodynamics (WELD)
+
+This is an online, in-progress book on Wave Electrodynamics (WELD).
+

@@ -40,9 +40,16 @@ Popalawski (2012) gives the following estimates for the big bang parameters:
 
 Popalawski (2010) defines the Cartan radius of an electron to be on the order of $10^{-27} m$, which sets a minimum spatial scale for such a particle. The density of electrons all packed together at this radius would be $ρ = m_e / r^3 = 10^{51} {kg} m^{−3}$.
 
+## Pauli Exclusion in Black Holes
+
+The Pauli exclusion principle, i.e., the spin statistics theorem, says that two fermions cannot occupy the same quantum state, and this is understood to prevent a neutron star from further collapsing upon itself.  Why doesn't the same principle apply within a black hole?  This is not well understood apparently, at least according to this [stackexchgange](https://physics.stackexchange.com/questions/93988/does-black-hole-formation-contradict-the-pauli-exclusion-principle) discussion, in large part because quantum mechanics and gravity have not been reconciled, and even the precise ways of working with singularities within black holes are unresolved (Geroch, 1967).
+
+In any case, it is unclear if the exclusion principle itself would provide the kind of critical density scaling parameters that we would like.  Perhaps the above spin-torsion framework may provide a better answer?  And what is the relationship between the gravitational spin dynamic and the exclusion principle anyway?  Perhaps there is some deep connection?
+
 ## Planck scale
 
 Another approach is to consider the Planck scale, where all the units involved in the gravitational equations take on a value of 1, which sets the Planck length on the order of $10^{-35} m$.  See [Physics Forums](https://www.physicsforums.com/insights/hand-wavy-discussion-planck-length/) and [John Baez Lengths](https://math.ucr.edu/home/baez/lengths.html) more info.  At this length scale, the gravitational force immediately surrounding an electron is as strong as its EM force.  The smallest length that has been empirically measured, according to above link, is about $10^{-22} m$, which is well below the Compton wavelength of an electron (order $10^{-13}$).
+
 
 ## The Extreme Coincidence of Flat Space
 
